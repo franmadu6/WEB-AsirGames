@@ -1,0 +1,30 @@
+div.relleno{
+    background-color: #000000;
+}
+div.relleno > p{
+    color: white;
+}
+div.relleno > h2{
+    color: white !important;
+}
+div.relleno > h3{
+    color: white;
+}
+h5{
+    text-align: center;
+    color: orange !important;
+}
+img.retro1{
+    float: left;
+}
+img.retro2{
+    float: right
+}
+img.retroark{
+    text-align: center;
+    width: 100%
+}
+img.josedom{
+    text-align: center;
+    width: 100%;
+}

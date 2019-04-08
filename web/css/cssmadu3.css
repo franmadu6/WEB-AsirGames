@@ -1,0 +1,86 @@
+h2{
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: 800;
+}
+h3{
+    background-color: red;
+    color: white !important;
+    font-size: 2em !important;
+}
+article{
+    text-align: center;
+}
+article a{
+    text-decoration: none;
+    font-size: 1.5em;
+}
+article p{
+    font-size: 1.5em;
+    padding: 0% 0% 0% 30%; 
+    width: 70%
+}
+article h3{
+    font-size: 2em;
+    font-weight: bold;
+    background-color: #ff3b00;
+    color: white;
+}
+
+div.aboutguias{
+    text-align: left;
+}
+div.magno{
+
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 5px;
+}
+div.magno p{
+    padding: 35px;
+    margin-bottom: 2px;
+    text-align: center !important;
+    font-size: 1.5em !important;
+}
+ol{
+    font-size: 1.5em;
+    padding: 0% 0% 0% 10%;
+    text-align: left;
+}
+ol li{
+    font-size: 1em !important;
+}
+div.a{
+    float: left;
+    height: 100%;
+}
+img{
+    float: left;
+}
+div#a{
+    margin-bottom: 5%;
+}
+div#b{
+    margin-bottom: 7%;
+}
+div#c{
+    margin-bottom: 7%;
+}
+div#d{
+    margin-bottom: 4%;
+}
+div#e{
+    margin-bottom: 4%;
+}
+div#f{
+    margin-bottom: 4%;
+}
+div#g{
+    margin-bottom: 4%;
+}
+div#h{
+    margin-bottom: 2%;
+}
+div#i{
+    margin-bottom: 5%;
+}

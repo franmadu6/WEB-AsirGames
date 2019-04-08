@@ -1,0 +1,88 @@
+div.ctorneo{
+    text-align: center;
+    font-size: 1.5em !important;
+}
+input[type="submit"].cro{
+    background: #4a4a4a !important;
+    width: 30% !important;
+    height: 30% !important;
+}
+
+p{
+    font-size: 1.3em !important;
+    text-align: center;
+    
+}
+h4{
+    font-size: 1.6em !important;
+    text-align: center;
+    color: blue !important;
+}
+h2{
+    font-size: 2.5em !important;
+    text-align: center;
+    color: blue !important;
+}
+div.img{
+    display: flex;
+   /* margin: 1px 268px;*/
+    justify-content: space-between;
+}
+div.joselito{
+    text-align: center;
+}
+input[type="text"].cro{
+    background-color: white;
+    width: 80% !important;
+    border-radius: 10px;
+    border-color: #7e7a7a !important;
+    font-size: 0.7em !important;
+}
+input[type="submit"].cra{
+    background-color: white;
+    width: 80% !important;
+    border-radius: 10px;
+    border-color: #7e7a7a !important;
+    font-size: 0.7em !important;
+}
+
+div.imgvar{
+    text-align: center !important;
+}
+div.w3l_footer_pos{
+    font-size: 0.7em !important;
+}
+@media screen and (max-width:640px) {
+  img, video, object, embed {
+  max-width:100%;      /* Aquí el tamaño máximo de tus imágenes */
+  height:auto;         /* No es necesario, sólo para clarificar */
+    }
+    div.img{
+        display: flex;
+    }
+}
+@media screen and (max-width: 600px) {
+       table {
+           width:100%;
+       }
+       thead {
+           display: none;
+       }
+       tr:nth-of-type(2n) {
+           background-color: inherit;
+       }
+       tr td:first-child {
+           background: #f0f0f0;
+           font-weight:bold;
+           font-size:1.3em;
+       }
+       tbody td {
+           display: block;
+           text-align:center;
+       }
+       tbody td:before {
+           content: attr(data-th);
+           display: block;
+           text-align:center;
+       }
+}
